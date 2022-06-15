@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lPQcj+/EpXq3piKSp4v3Y/K4g5WRTeJIhGh7ougNLO3hCJdfnUpyBEJ+gRD7LWQz1K5YSpRzK+HRjifV/8IrIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaxdr\\source\\repos\\MuckMod\\MuckMod\\MuckMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaxdr\\.nuget\\packages\\harmonyx\\2.10.0\\harmonyx.2.10.0.nupkg.sha512",
+    "C:\\Users\\jaxdr\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\jaxdr\\.nuget\\packages\\monomod.runtimedetour\\22.3.23.4\\monomod.runtimedetour.22.3.23.4.nupkg.sha512",
+    "C:\\Users\\jaxdr\\.nuget\\packages\\monomod.utils\\22.3.23.4\\monomod.utils.22.3.23.4.nupkg.sha512"
+  ],
+  "logs": []
+}

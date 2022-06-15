@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jaxdr\\source\\repos\\MuckMod\\MuckMod\\MuckMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jaxdr\\source\\repos\\MuckMod\\MuckMod\\MuckMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaxdr\\source\\repos\\MuckMod\\MuckMod\\MuckMod.csproj",
+        "projectName": "MuckMod",
+        "projectPath": "C:\\Users\\jaxdr\\source\\repos\\MuckMod\\MuckMod\\MuckMod.csproj",
+        "packagesPath": "C:\\Users\\jaxdr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaxdr\\source\\repos\\MuckMod\\MuckMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaxdr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "HarmonyX": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
